@@ -1,5 +1,6 @@
 # Digital-Twin_Patient-Health
 Intelligent Digital Twin System for Patient Health Monitoring and Early Risk Prediction
+
 1️⃣ What is the problem / Market Pain you see?
 The healthcare industry faces significant challenges in continuous patient monitoring and early detection of health risks. Many critical health events are detected too late due to manual monitoring, fragmented data from multiple sources, and limited predictive tools. Physicians and caregivers often struggle to interpret complex patient data in real-time, leading to delayed interventions and higher treatment costs. There is a growing need for real-time, patient-specific monitoring solutions that are reliable, scalable, and explainable.
 
